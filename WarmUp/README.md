@@ -5,6 +5,7 @@
 - [Patient](Patient.md)
 - [Patient Revenge](PatientRevenge.md)
 - [Patient Revenge Revenge](PatientRevengeRevenge.md)
+- [LuckyMine](LuckMine.md)
 
 ## Pwn
 
