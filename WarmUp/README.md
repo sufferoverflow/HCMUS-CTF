@@ -22,7 +22,7 @@
 
 - [Decoder](Decoder.md)
 - [Xor](Xor.md)
-
+- [The Ripper](TheRipper.md)
 
 ## Forensics
 
