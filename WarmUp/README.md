@@ -6,6 +6,7 @@
 ## Pwn
 
 - [TellMe](TellMe.md)
+- [secret](secret.md)
 
 ## Web Exploitation
 
