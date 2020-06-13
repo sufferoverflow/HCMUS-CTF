@@ -2,7 +2,7 @@
 
 - Dùng IDA để disassemble chương trình
 
-- Tìm lệnh sleep, ở đây là gồm 2 lệnh để gọi system call: 
+- Tìm lệnh sleep, ở đây là gồm 2 lệnh để gọi system call:
 ```
 push 0x539 # 0x68 0x39 0x05
 call Sleep # 0xff 0x15 0x48 0x10 0x41
@@ -16,4 +16,4 @@ call Sleep # 0xff 0x15 0x48 0x10 0x41
 
 - Sau khi click đủ số lần flag sẽ hiện lên
 
-Flag: HCMUS-CTF{...}
+Flag: `HCMUS-CTF{...}`

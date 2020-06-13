@@ -4,4 +4,4 @@
 
 - Sau khi click đủ số lần flag sẽ hiện lên
 
-Flag: HCMUS-CTF{...}
+Flag: `HCMUS-CTF{...}`
