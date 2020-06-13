@@ -26,4 +26,4 @@ docker run -it 123456789ab bash
 cat flag.txt
 ```
 
-Flag: HCMUS-CTF{Docker_Is_an_essential_tool_You_have_to_learn_FORRRRSURRREEEE}
+Flag: `HCMUS-CTF{Docker_Is_an_essential_tool_You_have_to_learn_FORRRRSURRREEEE}`
