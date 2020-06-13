@@ -1,4 +1,4 @@
-# Funny Express
+# Funny Express - Web Exploitation
 
 - Trong express `request.query` có thể được parse value ra dạng Number, String, Object, Array
 

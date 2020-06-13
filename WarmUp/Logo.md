@@ -1,4 +1,4 @@
-# Logo
+# Logo - Misc
 
 Chuột phải Logo ở góc trên bên trái của trang web, chọn `Open image in new tab` sau đó ta sẽ thấy cờ ở phần dưới của hình.
 

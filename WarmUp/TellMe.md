@@ -1,4 +1,4 @@
-# TellMe
+# TellMe - Pwn
 
 - Tải file tellme.c ra đọc, ta thấy chương trình mong đợi userid là 0x3211, trong hệ 10 nó là 12817
 
