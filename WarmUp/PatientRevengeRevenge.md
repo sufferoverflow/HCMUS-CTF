@@ -1,4 +1,4 @@
-# Patient Revenge Revenge - Reverse Engineering
+# Reverse Engineering - Patient Revenge Revenge 
 
 - Dùng IDA để disassemble chương trình
 
@@ -16,4 +16,4 @@ call Sleep # 0xff 0x15 0x48 0x10 0x41
 
 - Sau khi click đủ số lần flag sẽ hiện lên
 
-Flag: `HCMUS-CTF{...}`
+Flag: `HCMUS-CTF{d0_y0u_kn0w_ARc_fourrrrrrrrrrrr}`
