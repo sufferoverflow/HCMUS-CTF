@@ -12,6 +12,7 @@
 
 - [TellMe](TellMe.md)
 - [secret](secret.md)
+- [store](store.md)
 - [FlowMe](FlowMe.md)
 
 ## Web Exploitation
@@ -31,7 +32,7 @@
 - [The Ripper](TheRipper.md)
 - [Factorization](Factorization.md)
 - [Factorization Revenge](FactorizationRevenge.md)
-- [Very Secure RSA](VerySecureRSA.md)
+- [Very Secure RSA](VerySecureRSA.mdo)
 
 ## Forensics
 
