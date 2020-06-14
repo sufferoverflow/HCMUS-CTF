@@ -8,4 +8,4 @@
 
 - Nhập tên đăng nhập john và mật khẩu vào `nc` sẽ có được flag
 
-Flag: `HCMUS-CTF{}`
+Flag: `HCMUS-CTF{Use_John_the_ripper_to_crack_password_is_fun!!!HAHAHA}`
