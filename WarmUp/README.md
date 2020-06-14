@@ -29,6 +29,9 @@
 - [sub](Sub.md)
 - [Xor](Xor.md)
 - [The Ripper](TheRipper.md)
+- [Factorization](Factorization.md)
+- [Factorization Revenge](FactorizationRevenge.md)
+- [Very Secure RSA](VerySecureRSA.md)
 
 ## Forensics
 
